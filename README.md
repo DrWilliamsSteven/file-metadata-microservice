@@ -1,4 +1,4 @@
-#File metadata app
+# File metadata app
 
 This is a file metadata app.
 
